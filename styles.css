@@ -1,0 +1,54 @@
+#usr{
+  width: 450px;
+  height:40px;
+  background: #F9F1FC;
+}
+#pwd{
+  width: 450px;
+  height:40px;
+  background: #F9F1FC;
+}
+#cuadro1{
+ width: 460px;
+  height:47px;
+  background: #F9F1FC;
+  border: 0;
+  padding: 2px 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+#cuadro2{
+width: 460px;
+  height:47px;
+  background: #F9F1FC;
+  border: 0;
+  padding: 2px 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+#cuadro3{
+ width: 460px;
+  height:47px;
+  background: #F9F1FC;
+  border: 0;
+  padding: 2px 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.coco{
+  background: #5E78E0;
+}
+#boton{
+  width: 460px;
+  height:55px;
+  background-color:chocolate
+}
+.imagen{
+  width: 250px;
+  height: 100%;
+}
+.container-flex{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
